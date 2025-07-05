@@ -56,9 +56,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Cybersecurity+%F0%9F%94%96+%7C+Python+Dev+%F0%9F%90%8D;HTB+Pro+Rank+%F0%9F%92%AA+%7C+NASA+Hall+of+Fame+%F0%9F%8C%9F;Bug+Bounty+Hunter+%7C+CTF+Player+%7C+Tor+Tool+Builder" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="120"/>
 
 </p>
 
