@@ -41,7 +41,8 @@
 |-----------|----------------|----------|
 | 🛰️ [`WiFiPen-X`](https://github.com/yourusername/WiFiPen-X) | Automates WiFi hacking using Python and aircrack-ng | Python, Scapy |
 | 🧅 [`AnonTool`](https://github.com/CyberPhantomX1/Anon-Tool) | Python-based tool for TOR routing like a VPN | Python, Tor, CLI |
-| 🖧 [`Office Network (Cisco)`](https://github.com/yourusername/Cisco-Network-Demo) | A complete small office LAN setup in Packet Tracer | Cisco, Subnetting, Routing |
+| 🖧 [`Office Network (Cisco)`](https://github.com/CyberPhantomX1/Cisco-Network-Demo) | A complete small office LAN setup in Packet Tracer | Cisco, Subnetting, Routing |
+| 🖧 [`Office Network (Cisco)`](https://github.com/CyberPhantomX1/sdet-journey.git) |  |
 
 ---
 
