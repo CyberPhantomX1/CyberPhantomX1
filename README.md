@@ -1,8 +1,6 @@
-<!-- 💥 Dev + Cybersecurity Profile README -->
-
+# <!-- 💥 Dev + Cybersecurity Profile README -->
 <h1 align="center">Hey 👋, I'm <span style="color:#00ffcc;">Nischay Joshi</span></h1>
 <h3 align="center">💻 Python Developer | 🛡️ Cybersecurity Enthusiast | 🐞 Bug Bounty Hunter</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&lines=Python+Dev+%7C+Cyber+Security+Learner+%7C+Bug+Bounty+Hunter;HTB+Pro+Rank+%F0%9F%92%AA+%7C+NASA+Hall+of+Fame+%F0%9F%8C%9F;Always+Learning+Always+Hacking+%F0%9F%92%AC+%7C+CTF+Player+%7C+Red+Team+Intern" alt="Typing SVG" />
 </p>
@@ -39,17 +37,17 @@
 
 | 🔧 Project | 💡 Description | 🛠️ Stack |
 |-----------|----------------|----------|
-| 🛰️ [`WiFiPen-X`](https://github.com/yourusername/WiFiPen-X) | Automates WiFi hacking using Python and aircrack-ng | Python, Scapy |
+| 🛰️ [`WiFiPen-X`](https://github.com/CyberPhantomX1/WiFiPen-X) | Automates WiFi hacking using Python and aircrack-ng | Python, Scapy |
 | 🧅 [`AnonTool`](https://github.com/CyberPhantomX1/Anon-Tool) | Python-based tool for TOR routing like a VPN | Python, Tor, CLI |
 | 🖧 [`Office Network (Cisco)`](https://github.com/CyberPhantomX1/Cisco-Network-Demo) | A complete small office LAN setup in Packet Tracer | Cisco, Subnetting, Routing |
-| 🛄 [`SDET-Journery`](https://github.com/CyberPhantomX1/sdet-journey.git) | A professional End-to-End (E2E) UI Automation Framework built with Playwright and TypeScript. | playwright, typescript, Node js, git
+| 🛄 [`SDET-Journey`](https://github.com/CyberPhantomX1/sdet-journey.git) | A professional End-to-End (E2E) UI Automation Framework built with Playwright and TypeScript. | playwright, typescript, Node js, git
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberPhantomX1&theme=dracula&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" />
 </p>
 
 ---
@@ -57,9 +55,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberPhantomX1&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberPhantomX1&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -76,7 +73,7 @@
 
 ## 🔥 Fun Fact
 
-> “I don’t hack for fame, I hack for impact.” 🧠💻  
+> "I don't hack for fame, I hack for impact." 🧠💻  
 > 🧠 *Knowledge is my tool, curiosity is my weapon.*
 
 ---
