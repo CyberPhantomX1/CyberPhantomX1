@@ -42,7 +42,7 @@
 | 🛰️ [`WiFiPen-X`](https://github.com/yourusername/WiFiPen-X) | Automates WiFi hacking using Python and aircrack-ng | Python, Scapy |
 | 🧅 [`AnonTool`](https://github.com/CyberPhantomX1/Anon-Tool) | Python-based tool for TOR routing like a VPN | Python, Tor, CLI |
 | 🖧 [`Office Network (Cisco)`](https://github.com/CyberPhantomX1/Cisco-Network-Demo) | A complete small office LAN setup in Packet Tracer | Cisco, Subnetting, Routing |
-| 🛄 [`SDET-Journery`](https://github.com/CyberPhantomX1/sdet-journey.git) | A professional End-to-End (E2E) UI Automation Framework built with Playwright and TypeScript. |
+| 🛄 [`SDET-Journery`](https://github.com/CyberPhantomX1/sdet-journey.git) | A professional End-to-End (E2E) UI Automation Framework built with Playwright and TypeScript. | playwright, typescript, Node js, git
 
 ---
 
